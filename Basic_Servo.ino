@@ -4,7 +4,7 @@ Servo myservo; //ประกาศตัวแปรแทน Servo
  
 void setup()
 {
-  myservo.attach(10); // กำหนดขา D10 ควบคุม Servo ขาที่ ๅ6
+  myservo.attach(10); // กำหนดขา D10 ควบคุม Servo ขาที่ 16
 }
 
 void loop()
