@@ -6,3 +6,4 @@
 2. Basic_Servo.ino ใช้ในการขับ Servo motor โดยต่าเข้าที่ D10 
 3. Layout.pdf เป็นการบอกตำแหน่งขาต่าง ๆ ของบอร์ด
 4. Basic_Servo.ino เป็นการต่อ Servo motor ที่ขา D10 (เปลี่ยนขาได้)
+5. BlinkWithoutDelay.ino เป็นการทำให้หลอด LED ทั้ง 4 ดวง กระพริบโดยใช้ miilli()
