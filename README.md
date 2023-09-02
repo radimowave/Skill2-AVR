@@ -8,3 +8,4 @@
 4. Basic_Servo.ino เป็นการต่อ Servo motor ที่ขา D10 (เปลี่ยนขาได้)=> https://docs.arduino.cc/learn/electronics/servo-motors
 5. Sweep_servo.ino เป็นการต่อ Servo motor ที่ขา D9 ค่อย ๆ ปรับมุม 0-180 ทีละ 1 องศา
 6. BlinkWithoutDelay.ino เป็นการทำให้หลอด LED ทั้ง 4 ดวง กระพริบโดยใช้ miilli()
+7. Switches_test_with_LEDs.ino เป็นการทดสอบ Switch ถ้ากด LED จะติด 500 ms และดับ 500 ms
