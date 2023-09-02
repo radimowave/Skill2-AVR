@@ -11,3 +11,4 @@
 7. Switches_test_with_LEDs.ino เป็นการทดสอบ Switch ถ้ากด LED จะติด 500 ms และดับ 500 ms
 8. Swap_Switch_LEDs.ino เป็นการทดสอบการกด Switch แล้วทำให้ LED สลับติดในแต่ละเงื่อนไข
 9. Switch_LEDs_test_Loop_5_Rounds เหมือน 8 แต่มีการวนซ้ำ 5 รอบ (มีใช้ Serial.prinf, %d, /n เหมือน c++)
+10. DHT11_test.ino ต่อ Sensor DHT11 ที่ขา 10 (ถ้ากำหนด delay น้อยเกินไปจะอ่านผิด)
