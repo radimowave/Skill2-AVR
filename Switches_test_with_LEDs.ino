@@ -38,24 +38,24 @@ void loop() {
       delay(500);
       
   } else if(digitalRead(button2) == LOW) {
-     Serial.print("Logic = ");Serial.print(digitalRead(button1));Serial.print("  ");
-    Serial.println("button 1 is pressed and LED on 500 ms");
+     Serial.print("Logic = ");Serial.print(digitalRead(button2));Serial.print("  ");
+    Serial.println("button 2 is pressed and LED on 500 ms");
     digitalWrite(LED2, HIGH);
     delay(500);
       Serial.println("LED off 500 ms");
       digitalWrite(LED2, LOW);
       delay(500);
   } else if(digitalRead(button3) == LOW) {
-     Serial.print("Logic = ");Serial.print(digitalRead(button1));Serial.print("  ");
-    Serial.println("button 1 is pressed and LED on 500 ms");
+     Serial.print("Logic = ");Serial.print(digitalRead(button3));Serial.print("  ");
+    Serial.println("button 3 is pressed and LED on 500 ms");
     digitalWrite(LED3, HIGH);
     delay(500);
       Serial.println("LED off 500 ms");
       digitalWrite(LED3, LOW);
       delay(500);
   } else if(digitalRead(button4) == LOW) {
-     Serial.print("Logic = ");Serial.print(digitalRead(button1));Serial.print("  ");
-    Serial.println("button 1 is pressed and LED on 500 ms");
+     Serial.print("Logic = ");Serial.print(digitalRead(button4));Serial.print("  ");
+    Serial.println("button 4 is pressed and LED on 500 ms");
     digitalWrite(LED4, HIGH);
     delay(500);
       Serial.println("LED off 500 ms");
