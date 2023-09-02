@@ -13,3 +13,4 @@
 9. Switch_LEDs_test_Loop_5_Rounds เหมือน 8 แต่มีการวนซ้ำ 5 รอบ (มีใช้ Serial.prinf, %d, /n เหมือน c++)
 10. DHT11_test.ino ต่อ Sensor DHT11 ที่ขา 10 (ถ้ากำหนด delay น้อยเกินไปจะอ่านผิด)
 11. DHT11_LED.ino ตั้งอุณหภูมิ ถ้าเกิน LED ที่ตั้งไว้จะติดหรือจะต่อ Buzzer ให้ดังก็ได้
+12. Basic_soil_sensor_analog.ino ทดสอบ Sensor วัดความชื้น (รูปซ้อม 2 ขาแบบอนาล็อก)
