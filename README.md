@@ -15,3 +15,4 @@
 11. DHT11_LED.ino ตั้งอุณหภูมิ ถ้าเกิน LED ที่ตั้งไว้จะติดหรือจะต่อ Buzzer ให้ดังก็ได้
 12. Basic_soil_sensor_analog.ino ทดสอบ Sensor วัดความชื้น (รูปซ้อม 2 ขาแบบอนาล็อก)
 13. Basic_PIR_HR501.ino ทดสอบ PIR sensor (ต้องปรับระยะทางการรับและเวลาให้ดี ๆ)
+14. Basic_LCD_I2C.ino ต่อจอ LCD แสดงผล (https://youtu.be/Y6erfEm4UPM)
