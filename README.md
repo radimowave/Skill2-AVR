@@ -17,3 +17,4 @@
 13. Basic_PIR_HR501.ino ทดสอบ PIR sensor (ต้องปรับระยะทางการรับและเวลาให้ดี ๆ)
 14. Basic_LCD_I2C.ino ต่อจอ LCD แสดงผล (https://youtu.be/Y6erfEm4UPM)
 15. Basic_RFID_MFRC522.ino ใช้ RFID reader MFRC522 (https://youtu.be/cKAUV7U7E14)
+16. Basic_Tone_to_Buzzer.ino กำหนดความถี่และช่วงเวลาให้เสียงออก Buzzer (https://youtu.be/5WUuBDHbtc0)
