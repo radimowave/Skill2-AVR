@@ -20,3 +20,4 @@
 16. Basic_Tone_to_Buzzer.ino กำหนดความถี่และช่วงเวลาให้เสียงออก Buzzer (https://youtu.be/5WUuBDHbtc0)
 17. Basic_IR_reciever.ino ใช้วนรับ IR ตามปุ่มกด
 18. Ultrasonic_Buzzer.ino ใช้สำหรับ sensor HR-04 แสดงผลผ่าน LED และ Buzzer
+19. L298Driver_dc_motor.ino ใช้สำหรับขับมอเตอร์ DC โดยการหมุนผ่าน switch
