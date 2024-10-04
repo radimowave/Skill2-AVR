@@ -20,4 +20,5 @@
 16. Basic_Tone_to_Buzzer.ino กำหนดความถี่และช่วงเวลาให้เสียงออก Buzzer (https://youtu.be/5WUuBDHbtc0)
 17. Basic_IR_reciever.ino ใช้วนรับ IR ตามปุ่มกด
 18. Ultrasonic_Buzzer.ino ใช้สำหรับ sensor HR-04 แสดงผลผ่าน LED และ Buzzer
-19. L298Driver_dc_motor.ino ใช้สำหรับขับมอเตอร์ DC โดยการหมุนผ่าน switch
+19. L298Driver_dc_motor.ino ใช้สำหรับขับมอเตอร์ DC โดยการหมุนผ่าน switch (การต่อ https://1.bp.blogspot.com/-QUq3hP4PC3c/V763S6dbbuI/AAAAAAAAAXk/S3ichYnF1DYv2min01l4-zlutG2_jp2gwCLcB/s1600/L298N-motor-driver-connect-Arduino-R3.jpg )แต่มอเตอร์ที่ใช้คือ ตัวเหลือง (https://www.flyrobo.in/dc_3_6v_bo_gear_motor_for_arduino)
+20. 
